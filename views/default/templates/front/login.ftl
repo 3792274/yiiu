@@ -26,8 +26,8 @@
           <div class="form-group">
             <label for="email">验证码</label>
             <div class="input-group">
-              <input type="text" class="form-control" id="code" name="code" placeholder="验证码"/>
-              <span class="input-group-btn">
+              <input type="text" class="form-control" id="code" name="code" placeholder="验证码" />
+              <span>
                 <img src="/code" id="changeCode"/>
               </span>
             </div>
